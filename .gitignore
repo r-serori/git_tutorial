@@ -1,5 +1,6 @@
 # Xcode
 ## Mac OS X
+secret.txt
 .DS_Store
 ## Xcode build files
 build/
